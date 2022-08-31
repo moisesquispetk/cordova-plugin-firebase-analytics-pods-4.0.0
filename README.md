@@ -1,3 +1,5 @@
+# FYI: This is a forked project of https://github.com/chemerisuk/cordova-plugin-firebase-analytics all credits to these guys
+
 # Cordova plugin for [Firebase Analytics](https://firebase.google.com/docs/analytics/)
 
 [![NPM version][npm-version]][npm-url] [![NPM downloads][npm-downloads]][npm-url] [![NPM total downloads][npm-total-downloads]][npm-url] [![PayPal donate](https://img.shields.io/badge/paypal-donate-ff69b4?logo=paypal)][donate-url] [![Twitter][twitter-follow]][twitter-url]
